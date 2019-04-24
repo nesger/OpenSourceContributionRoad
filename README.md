@@ -14,7 +14,7 @@
 
   [勘误](https://github.com/flutterchina/flutter-in-action/pull/45)
 
-- [Flutter 官方翻译计划](https://github.com/cfug/flutter.cn)
+- [Flutter 文档翻译计划](https://github.com/cfug/flutter.cn)
 
   - 基础列表文章翻译  
     [Issue 任务认领](https://github.com/cfug/flutter.cn/issues/117)  
