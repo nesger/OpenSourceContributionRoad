@@ -19,7 +19,9 @@
   - 基础列表文章翻译  
     [Issue 任务认领](https://github.com/cfug/flutter.cn/issues/117)  
     [PR 提交合并](https://github.com/cfug/flutter.cn/pull/207)
-    
+  - 创建一个水平滑动的列表文章翻译  
+    [Issue 任务认领](https://github.com/cfug/flutter.cn/issues/118)  
+    [PR 提交合并](https://github.com/cfug/flutter.cn/pull/219)
     
 ### Android
 
